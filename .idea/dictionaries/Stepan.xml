@@ -1,19 +1,29 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Stepan">
     <words>
+      <w>autocorrelation</w>
       <w>boros</w>
+      <w>cardinalities</w>
+      <w>cartogram</w>
+      <w>cartograms</w>
       <w>choropleth</w>
       <w>choropleths</w>
       <w>classi</w>
       <w>dataframe</w>
       <w>dataframes</w>
+      <w>dfrac</w>
+      <w>displaystyle</w>
+      <w>eading</w>
+      <w>figsize</w>
       <w>jenks</w>
       <w>kdeplot</w>
       <w>lims</w>
       <w>locs</w>
       <w>lsoa</w>
       <w>lsoas</w>
+      <w>msoa</w>
       <w>namp</w>
+      <w>neis</w>
       <w>newdf</w>
       <w>nybb</w>
       <w>polydf</w>
@@ -21,10 +31,16 @@
       <w>quantiles</w>
       <w>redimensionate</w>
       <w>reproject</w>
+      <w>riting</w>
       <w>rugplot</w>
       <w>savefig</w>
+      <w>saveto</w>
+      <w>shapefile</w>
       <w>shapefiles</w>
       <w>sinmar</w>
+      <w>stdd</w>
+      <w>vals</w>
+      <w>vari</w>
       <w>zippath</w>
     </words>
   </dictionary>
